@@ -1,0 +1,59 @@
+body{
+    font-size:1.3em;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+}
+
+#container{
+    max-width:80%;
+    margin:0 auto;
+    text-align:center;
+    border-radius:10px;
+    padding:10px;
+    background:#E8B9AB;
+    opacity: 0.9;
+}
+
+.panel{
+    max-width: 80%;
+    margin:30px auto;
+    border-radius:10px;
+    padding:10px;
+    background:#eee;
+}
+
+button{
+    background:rgb(184, 146, 143);
+    height: 3em;
+    width:80%;
+    margin-bottom:1.5em;
+    border-radius:10px;
+    color:black;
+    font-size:0.8em;
+    border:none;
+    font-family: 'PT Sans', sans-serif;
+}
+
+input{
+    border-radius:10px;
+    width:80%;
+    height:4em;
+    text-align:center;
+    border:2px solid;
+    border-color:#E09891;
+}
+
+.activeButton{
+    background: green;
+}
+
+p{
+    font-family: 'PT Sans', sans-serif;
+}
+
